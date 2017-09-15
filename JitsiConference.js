@@ -305,7 +305,7 @@ JitsiConference.prototype.join = function(password) {
 };
 
 /**
- * Creates new {@link JitsiAuthConnection} which authenticates and upgrades
+ * Creates a new {@link JitsiAuthConnection} which authenticates and upgrades
  * the user's role to moderator.
  *
  * @returns {JitsiAuthConnection}
