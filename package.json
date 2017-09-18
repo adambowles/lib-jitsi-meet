@@ -56,6 +56,6 @@
   "pre-commit": [
     "lint"
   ],
-  "main": "./lib-jitsi-meet.min.js",
+  "main": "./index.js",
   "license": "Apache-2.0"
 }
